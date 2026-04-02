@@ -1,4 +1,4 @@
-# Midnight Jury Pool   Juror Zero
+# Midnight Juror Zero
 
 Juror Zero, is a privacy-preserving jury / verdict system built on **Midnight Network** using
 zero-knowledge (ZK) proofs. Votes are hidden via ZK witnesses only the tally
